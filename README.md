@@ -1,5 +1,6 @@
 # HTML/CSS/JS & DOM -DRUM KIT-
-*FEATURES-
+*FEATURES
+-
 -HTML
 -CSS
 -JavaScript

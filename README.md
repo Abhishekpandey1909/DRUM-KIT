@@ -1,12 +1,12 @@
 # HTML/CSS/JS & DOM -DRUM KIT-
-*FEATURES
+FEATURES
 -
--HTML
--CSS
--JavaScript
+HTML
+CSS
+JavaScript
 
-- To run the site on your local machine
-
+To run the site on your local machine
+-
 Download or clone the repository onto your machine.
 Extract the .zip file.
 Open .html file in your browser.
